@@ -1,0 +1,8 @@
+.Hangman {
+  width: 80%;
+  margin-top: 50px;
+}
+
+.guess {
+  font-size: 75px;
+}
